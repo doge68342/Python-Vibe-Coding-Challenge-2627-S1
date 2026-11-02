@@ -132,15 +132,15 @@ The **top 10 student-voted projects** will each receive a **sticker of their cho
 
 Include the following information with your submission (you may use this README as a template):
 
-**Project Name:**
+**Project Name: Luman Run**
 
-**Project Description:**
+**Project Description: An graphical enemy dodger with multiple difficulties and keyboard input**
 
-**Python Libraries Used:**
+**Python Libraries Used:Math, json, random, time, pathlib and tkinter**
 
-**GitHub Repository / Project Link:**
+**GitHub Repository / Project Link: https://github.com/doge68342/Python-Vibe-Coding-Challenge-2627-S1**
 
-**Instructions for Running the Project:**
+**Instructions for Running the Project: Runs like any other python script if required libraries are installed**
 
 ---
 
